@@ -2,4 +2,5 @@
 <manifest>
   <include name="_remotes.xml"/>
   <default remote="opencascade" sync-j="8" revision="refs/heads/master"/>
+  <project path="occt" name="occt" remote="opencascade"/>
 </manifest>
